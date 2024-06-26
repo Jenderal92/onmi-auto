@@ -20,8 +20,7 @@ Python 2.7
 <li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
 <li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 
-![Screenshot_2024-06-26-00-21-55-186-edit_com termux](https://github.com/Jenderal92/onmi-auto/assets/59664965/bfcd1897-95ec-4cc1-9a3f-17a94979d469)
-
+![IMG_20240626_224610](https://github.com/Jenderal92/onmi-auto/assets/59664965/ce836fc7-9e09-4e40-b80e-e2fd688b357c)
 
 # How To Use?
 
